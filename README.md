@@ -24,8 +24,8 @@ Python 3 · Flask · Jinja2 · SQLite · JSON · XML · HTML · CSS
 ## Cómo ejecutar los ejercicios
 
 ```bash
-git clone https://github.com/ConstructorQP/Python-2
-cd Python-2
+git clone https://github.com/ConstructorQP/python-flask-web
+cd python-flask-web
 pip install flask
 ```
 
@@ -41,4 +41,4 @@ Después abre `http://127.0.0.1:5000` en el navegador.
 
 ## Proyecto destacado
 
-El blog completo con panel de administración está en su propio repositorio: [BLOG-ADMIN](https://github.com/ConstructorQP/BLOG-ADMIN).
+El blog completo con panel de administración está en su propio repositorio: [flask-blog-admin](https://github.com/ConstructorQP/flask-blog-admin).
